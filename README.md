@@ -39,6 +39,7 @@ javac src/com/DiceGame.java
 java -cp src com.DiceGame
 ---
 📸 Example Gameplay
+---
 🎲 Welcome to the Dice Game!
 👉 Enter 10 to roll the dice. Rolling a 1 ends the game.
 
@@ -54,6 +55,8 @@ Enter 10 to Roll the Dice: 10
 🎲 Dice value: 1
 💀 You rolled a 1. Game Over!
 🏁 Final Score: 8
+
+
 ---
 🛠️ Technologies & Concepts Used
 🧠 Java Programming
