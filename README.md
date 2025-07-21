@@ -41,10 +41,8 @@ java -cp src com.DiceGame
 📸 Example Gameplay
 Enter 10 to Roll the Dice: > 10
 Dice value: 6
-
 Enter 10 to Roll the Dice: > 10
 Dice value: 2
-
 Enter 10 to Roll the Dice: > 10
 Dice value: 1
 You are out of the Game
