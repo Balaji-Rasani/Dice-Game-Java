@@ -1,4 +1,4 @@
-🎲 Dice Game in Java
+🎲 Dice Game in Java 🎲...
 ---
 A simple command-line Dice Game built in Java where 
 ---
