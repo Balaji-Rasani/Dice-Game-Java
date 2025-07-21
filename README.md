@@ -1,6 +1,7 @@
 🎲 Dice Game in Java
 ---
 A simple command-line Dice Game built in Java where 
+---
 the player rolls a dice until they roll a 1. 
 The game ends when the player rolls a 1, 
 and the final score is displayed.
