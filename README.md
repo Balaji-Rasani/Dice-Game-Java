@@ -1,8 +1,11 @@
 🎲 Dice Game in Java
-A simple command-line Dice Game built in Java where the player rolls a dice until they roll a 1. The game ends when the player rolls a 1, and the final score is displayed.
+---
+A simple command-line Dice Game built in Java where the player rolls a dice until they roll a 1. 
+The game ends when the player rolls a 1, and the final score is displayed.
 ---
 
 📜 Game Rules
+---
 The game prompts the player to enter 10 to roll the dice.
 
 If the player enters anything other than 10, they are prompted again.
@@ -57,13 +60,16 @@ Final Score: 8
 🎲 Random Number Generation (Random.nextInt(6) + 1)
 
 📥 User Input using Scanner
-
-🖥️ IDEs: IntelliJ IDEA / VSCode / Command Line
+🖥️ IDEs: IntelliJ IDEA / VS Code / Command Line / Eclipse
 ---
 
 📌 Notes
-Dice value is generated using:
-Random rand = new Random();
-rand.nextInt(6) + 1;
-User must enter 10 to roll the dice. Any other input is considered invalid and will prompt the user again.
+Dice rolls are generated using:
+
+rand.nextInt(6) + 1; // values 1 to 6
+The game stops when the player rolls a 1.
+
+Only the number 10 is accepted to trigger a roll.
+
+
 
